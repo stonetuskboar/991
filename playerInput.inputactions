@@ -1,0 +1,118 @@
+{
+    "name": "playerInput",
+    "maps": [
+        {
+            "name": "OnLeftClick",
+            "id": "48c37d00-7a9a-466b-bfb5-98e747d67534",
+            "actions": [
+                {
+                    "name": "leftClick",
+                    "type": "Button",
+                    "id": "bbc4fe43-55e3-41c9-81c6-43706fd2de5e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c7504c5c-4dff-4ca5-9597-39a532b5e9e1",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "leftClick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "New action map1",
+            "id": "7ba6bb4a-6c63-438c-b1a4-aef383a05551",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "388f5d53-69cc-485a-8d2b-5a8a2b869b06",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ade05a3e-b35d-43a8-bb4f-8802ab494e05",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "New action map2",
+            "id": "949c0098-9c13-40a6-b5ce-ea3a6404aecf",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "248db940-efb9-45a6-88f4-3ddb8d6f6f4b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "45a092bf-6415-46ef-b1f7-e1e6adb50c39",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "New action map3",
+            "id": "4a6bdef7-cf18-49bc-b92d-57bd1f68a098",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "dbb6e162-a183-4993-ab65-dd7dd4e04409",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "366b91be-6f3c-4c2b-ae9d-13b2ce77179d",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
